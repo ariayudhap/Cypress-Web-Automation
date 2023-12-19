@@ -1,2 +1,2 @@
-# QA-Automation
-Portofolio QA
+# Cypress-Web-Automation
+Web automation using cypress
